@@ -1,0 +1,5 @@
+flask
+redis
+flask_login
+flask_sqlalchemy
+PyMySQL[rsa]
