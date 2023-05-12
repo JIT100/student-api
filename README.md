@@ -22,7 +22,7 @@ ___
  - Create a filed named  `.env` in the current local directory.
 
  - Add all of the following enviroment variable in the `.env` file with proper value:  
-    - DB_URL
+    - DB_URL `( eg : mysql+pymysql://user:password@db/db_name )`
     - SECRET_KEY
     - MYSQL_ROOT_PASSWORD
     - MYSQL_DATABASE
